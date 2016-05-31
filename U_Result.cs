@@ -3,6 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 
 /* 
+UFOキャッチャーのみで使うやつ
     景品の結果を表示するクラスです。
 */
 
